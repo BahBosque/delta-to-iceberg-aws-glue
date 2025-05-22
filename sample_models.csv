@@ -1,0 +1,16 @@
+table_name,partition_column
+customer_data,created_date
+order_history,order_date
+product_catalog,last_updated
+user_sessions,session_date
+transaction_logs,transaction_date
+inventory_snapshot,snapshot_date
+sales_metrics,sale_date
+customer_feedback,feedback_date
+payment_records,payment_date
+shipping_details,ship_date
+product_reviews,review_date
+user_profiles,registration_date
+campaign_metrics,campaign_date
+web_analytics,visit_date
+email_campaigns,send_date
